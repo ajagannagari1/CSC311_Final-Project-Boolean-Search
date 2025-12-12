@@ -1,0 +1,1 @@
+redis://default:GWzwNEZ8mBBqUxpglt3A28KoSnfDlOWW@redis-12267.c62.us-east-1-4.ec2.cloud.redislabs.com:12267

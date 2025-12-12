@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="DESKTOP-QFTBJGC" name="com.allendowney.thinkdast.WikiSearchTest" skipped="0" tests="4" time="0.057" timestamp="2025-12-12T07:50:50">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="env.USERDOMAIN_ROAMINGPROFILE" value="DESKTOP-QFTBJGC" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="env.PROMPT" value="$P$G" />
+    <property name="os.name" value="Windows 11" />
+    <property name="env.DriverData" value="C:\Windows\System32\Drivers\DriverData" />
+    <property name="env.COMPUTERNAME" value="DESKTOP-QFTBJGC" />
+    <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+    <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="env.EFC_10316_2775293581" value="1" />
+    <property name="ant.home" value="C:\Tools\apache-ant-1.10.15" />
+    <property name="java.runtime.version" value="17.0.10+11-LTS-240" />
+    <property name="env.CONDA_SHLVL" value="0" />
+    <property name="env.GOPATH" value="C:\Users\akshithajagannagari\go" />
+    <property name="env.HOMEPATH" value="\Users\akshithajagannagari" />
+    <property name="user.name" value="akshithajagannagari" />
+    <property name="env.CONDA_BAT" value="C:\Program Files\miniconda3\condabin\conda.bat" />
+    <property name="user.language" value="en" />
+    <property name="env.OneDriveCommercial" value="C:\Users\akshithajagannagari\OneDrive - csudh.edu" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin" />
+    <property name="ant.project.default-target" value="build" />
+    <property name="ant.project.name" value="ThinkDaSt" />
+    <property name="java.vm.compressedOopsMode" value="Zero based" />
+    <property name="java.version" value="17.0.10" />
+    <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 186 Stepping 3, GenuineIntel" />
+    <property name="env.TEMP" value="C:\Users\AKSHIT~1\AppData\Local\Temp" />
+    <property name="ant.file.type.ThinkDaSt" value="file" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="env._JAVACMD" value="java.exe" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="env.HOMEDRIVE" value="C:" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="env.IGCCSVC_DB" value="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA/sXKC5fpz0yprI/HhCHMAwQAAAACAAAAAAAQZgAAAAEAACAAAAChzTmBAZvsW/KHU7J2MCJxdv/IquUoaFoPxvH+ViHaTQAAAAAOgAAAAAIAACAAAAB61BXq40ggUVefbFbzGQjLqmPzirI6ZN1Wps4PYCIhDmAAAAB+OhxbDfbt1HbTpBHNf2pg4OBcGMrYkpv/i9+5/ScQo34HH3m7KRVdnkaLDQaZRTxWkLyZHEUk73yPZRBQz0YXnGvPjtlbnJbqDvbjovTiZ06hun8GdGqEWguyiM/faklAAAAAd5OibWNq6bGrY2N75L4azWeEJNO9cvMHpXQM16VUhDmZGLJ0fGAUKQgoEp9aA9+TjT/Y/RYLKIzoVmSmjeqTkg==" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="61.0" />
+    <property name="user.country" value="US" />
+    <property name="java.home" value="C:\Program Files\Java\jdk-17" />
+    <property name="env.PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules" />
+    <property name="env.APPDATA" value="C:\Users\akshithajagannagari\AppData\Roaming" />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="env.PUBLIC" value="C:\Users\Public" />
+    <property name="env.ComSpec" value="C:\WINDOWS\system32\cmd.exe" />
+    <property name="env.OS" value="Windows_NT" />
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+    <property name="env.=ExitCode" value="00000000" />
+    <property name="os.version" value="10.0" />
+    <property name="ant.file" value="C:\Users\akshithajagannagari\Downloads\CSC_Final_Project_Boolean Search\solutions\build.xml" />
+    <property name="env.ProgramW6432" value="C:\Program Files" />
+    <property name="env._USE_CLASSPATH" value="no" />
+    <property name="env.CONDA_EXE" value="C:\Program Files\miniconda3\Scripts\conda.exe" />
+    <property name="env.=::" value="::\" />
+    <property name="env.OMP_NUM_THREADS" value="12" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="17.0.10+11-LTS-240" />
+    <property name="env.ZES_ENABLE_SYSMAN" value="1" />
+    <property name="user.variant" value="" />
+    <property name="env.USERPROFILE" value="C:\Users\akshithajagannagari" />
+    <property name="ant.library.dir" value="C:\Tools\apache-ant-1.10.15\lib" />
+    <property name="junit.output.dir" value="junit" />
+    <property name="env.FPS_BROWSER_USER_PROFILE_STRING" value="Default" />
+    <property name="env.TMP" value="C:\Users\AKSHIT~1\AppData\Local\Temp" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="sun.stdout.encoding" value="cp437" />
+    <property name="user.script" value="" />
+    <property name="target" value="1.7" />
+    <property name="user.home" value="C:\Users\akshithajagannagari" />
+    <property name="env.EFC_10316_1262719628" value="1" />
+    <property name="env.ProgramData" value="C:\ProgramData" />
+    <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+    <property name="env.SESSIONNAME" value="Console" />
+    <property name="java.version.date" value="2024-01-16" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="env.NUMBER_OF_PROCESSORS" value="12" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\miniconda3\condabin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\CMake\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Go\bin;C:\Program Files\nodejs\;C:\Users\akshithajagannagari\Downloads\php-8.4.3-nts-Win32-vs17-x64.zip;C:\Program Files\php;C:\Program Files\Git\cmd;C:\MinGW\bin;C:\Users\akshithajagannagari\Downloads\mingw-w64-v11.0.0;C:\MinGW\bin;C:\Users\akshithajagannagari\AppData\Local\Programs\Python\Python313\;C:\Users\akshithajagannagari\AppData\Local\Programs\Python\Python313\Scripts\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\apache-ant\apache-ant-1.10.15\bin;C:\Tools\apache-ant-1.10.15\bin;C:\Program Files\Memurai\;C:\Users\akshithajagannagari\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;C:\Program Files\CMake\bin;C:\Users\akshithajagannagari\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\miniconda3\Lib;C:\Program Files\miniconda3;C:\Program Files\miniconda3\Scripts;C:\Users\akshithajagannagari\go\bin;C:\Program Files\Go\bin;C:\Program Files\Go;C:\Users\akshithajagannagari\AppData\Roaming\npm;C:\Users\akshithajagannagari\.dotnet\tools;C:\Users\akshithajagannagari\AppData\Local\Programs\Python\Python39-32;C:\Users\akshithajagannagari\AppData\Local\Programs\Python\Python39-32\Scripts;C:\Users\akshithajagannagari\AppData\Local\Programs\Python\Python39-32\Lib;C:\Users\akshithajagannagari\Downloads\astyle-3.6.13-x64\astyle-3.6.13-x64;;." />
+    <property name="java.vendor.url" value="https://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="java.class.path" value="C:\Users\akshithajagannagari\Downloads\CSC_Final_Project_Boolean Search\solutions\bin;C:\Users\akshithajagannagari\Downloads\CSC_Final_Project_Boolean Search\solutions\lib\jedis-2.8.0.jar;C:\Users\akshithajagannagari\Downloads\CSC_Final_Project_Boolean Search\solutions\lib\jsoup-1.8.3.jar;C:\Users\akshithajagannagari\Downloads\CSC_Final_Project_Boolean Search\solutions\lib\junit-4.12.jar;C:\Users\akshithajagannagari\Downloads\CSC_Final_Project_Boolean Search\solutions\lib\hamcrest-core-1.3.jar;C:\Users\akshithajagannagari\Downloads\CSC_Final_Project_Boolean Search\solutions\lib\jcommon-1.0.23.jar;C:\Users\akshithajagannagari\Downloads\CSC_Final_Project_Boolean Search\solutions\lib\jfreechart-1.0.19.jar;C:\Users\akshithajagannagari\Downloads\CSC_Final_Project_Boolean Search\solutions\lib\servlet.jar;C:\Users\akshithajagannagari\Downloads\CSC_Final_Project_Boolean Search\solutions\lib\ant-junit.jar;C:\Users\akshithajagannagari\Downloads\CSC_Final_Project_Boolean Search\solutions\lib\commons-math3-3.6.jar;C:\Users\akshithajagannagari\Downloads\CSC_Final_Project_Boolean Search\solutions\lib\hamcrest-library-1.3.jar;C:\Tools\apache-ant-1.10.15\lib\ant-launcher.jar;C:\Tools\apache-ant-1.10.15\lib\ant.jar;C:\Tools\apache-ant-1.10.15\lib\ant-junit.jar;C:\Tools\apache-ant-1.10.15\lib\ant-junit4.jar" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.allendowney.thinkdast.WikiSearchTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\akshithajagannagari\Downloads\CSC_Final_Project_Boolean Search\solutions\junit\TEST-com.allendowney.thinkdast.WikiSearchTest.xml crashfile=C:\Users\akshithajagannagari\Downloads\CSC_Final_Project_Boolean Search\solutions\junitvmwatcher16684552473798720108.properties propsfile=C:\Users\akshithajagannagari\Downloads\CSC_Final_Project_Boolean Search\solutions\junit17499452187286219769.properties" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.15 compiled on August 25 2024" />
+    <property name="native.encoding" value="Cp1252" />
+    <property name="env.EFC_10316_1592913036" value="1" />
+    <property name="jdk.debug" value="release" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.file.type" value="file" />
+    <property name="env.windir" value="C:\WINDOWS" />
+    <property name="env.LOGONSERVER" value="\\DESKTOP-QFTBJGC" />
+    <property name="java.vm.specification.version" value="17" />
+    <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="env.OneDrive" value="C:\Users\akshithajagannagari\OneDrive - csudh.edu" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="env.ANT_HOME" value="C:\Tools\apache-ant-1.10.15" />
+    <property name="env.ProgramFiles" value="C:\Program Files" />
+    <property name="env.PROCESSOR_REVISION" value="ba03" />
+    <property name="java.io.tmpdir" value="C:\Users\AKSHIT~1\AppData\Local\Temp\" />
+    <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/" />
+    <property name="env.SystemRoot" value="C:\WINDOWS" />
+    <property name="env.EFC_10316_2283032206" value="1" />
+    <property name="env.FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer" />
+    <property name="os.arch" value="amd64" />
+    <property name="env.ANT_CMD_LINE_ARGS" value=" WikiSearchTest" />
+    <property name="env.EFC_10316_3789132940" value="1" />
+    <property name="user.dir" value="C:\Users\akshithajagannagari\Downloads\CSC_Final_Project_Boolean Search\solutions" />
+    <property name="env.LOCALAPPDATA" value="C:\Users\akshithajagannagari\AppData\Local" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+    <property name="env.Path" value="C:\Program Files\miniconda3\condabin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\CMake\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Go\bin;C:\Program Files\nodejs\;C:\Users\akshithajagannagari\Downloads\php-8.4.3-nts-Win32-vs17-x64.zip;C:\Program Files\php;C:\Program Files\Git\cmd;C:\MinGW\bin;C:\Users\akshithajagannagari\Downloads\mingw-w64-v11.0.0;C:\MinGW\bin;C:\Users\akshithajagannagari\AppData\Local\Programs\Python\Python313\;C:\Users\akshithajagannagari\AppData\Local\Programs\Python\Python313\Scripts\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\apache-ant\apache-ant-1.10.15\bin;C:\Tools\apache-ant-1.10.15\bin;C:\Program Files\Memurai\;C:\Users\akshithajagannagari\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;C:\Program Files\CMake\bin;C:\Users\akshithajagannagari\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\miniconda3\Lib;C:\Program Files\miniconda3;C:\Program Files\miniconda3\Scripts;C:\Users\akshithajagannagari\go\bin;C:\Program Files\Go\bin;C:\Program Files\Go;C:\Users\akshithajagannagari\AppData\Roaming\npm;C:\Users\akshithajagannagari\.dotnet\tools;C:\Users\akshithajagannagari\AppData\Local\Programs\Python\Python39-32;C:\Users\akshithajagannagari\AppData\Local\Programs\Python\Python39-32\Scripts;C:\Users\akshithajagannagari\AppData\Local\Programs\Python\Python39-32\Lib;C:\Users\akshithajagannagari\Downloads\astyle-3.6.13-x64\astyle-3.6.13-x64;" />
+    <property name="basedir" value="C:\Users\akshithajagannagari\Downloads\CSC_Final_Project_Boolean Search\solutions" />
+    <property name="ant.java.version" value="17" />
+    <property name="ant.core.lib" value="C:\Tools\apache-ant-1.10.15\lib\ant.jar" />
+    <property name="env.USERNAME" value="akshithajagannagari" />
+    <property name="source" value="1.7" />
+    <property name="env.SystemDrive" value="C:" />
+    <property name="sun.stderr.encoding" value="cp437" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="env.USERDOMAIN" value="DESKTOP-QFTBJGC" />
+    <property name="java.specification.version" value="17" />
+    <property name="env.=C:" value="C:\Users\akshithajagannagari\Downloads\CSC_Final_Project_Boolean Search\solutions" />
+    <property name="ant.project.invoked-targets" value="WikiSearchTest" />
+    <property name="env.PROCESSOR_LEVEL" value="6" />
+    <property name="ant.file.ThinkDaSt" value="C:\Users\akshithajagannagari\Downloads\CSC_Final_Project_Boolean Search\solutions\build.xml" />
+  </properties>
+  <testcase classname="com.allendowney.thinkdast.WikiSearchTest" name="testAnd" time="0.008" />
+  <testcase classname="com.allendowney.thinkdast.WikiSearchTest" name="testMinus" time="0.0" />
+  <testcase classname="com.allendowney.thinkdast.WikiSearchTest" name="testSort" time="0.0" />
+  <testcase classname="com.allendowney.thinkdast.WikiSearchTest" name="testOr" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
